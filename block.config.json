@@ -15,7 +15,11 @@
   "repoType": "mono",
   "dependencies": {
     "athultest13child1": {
-      "directory": "athultest13child1"
+      "directory": "athultest13child1",
+      "versionId": "lNL89WsrefPW3KJXiAOt7",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1",
+  "versionId": "rLxEb5lIqAvquaJgug33q"
 }
