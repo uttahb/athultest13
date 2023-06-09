@@ -1,0 +1,21 @@
+{
+  "name": "athultest13",
+  "type": "package",
+  "blockId": "TET_tC9R-cXPDSk8eK8fd",
+  "source": {
+    "https": "https://github.com/uttahb/athultest13.git",
+    "ssh": "git@github.com:uttahb/athultest13.git",
+    "branch": "block_athultest13"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "athultest13child1": {
+      "directory": "athultest13child1"
+    }
+  }
+}
